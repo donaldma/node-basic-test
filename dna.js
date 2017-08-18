@@ -13,7 +13,5 @@ dnaComplement = dna => {
     .join(''); 
 }
 
-console.log(dnaComplement('ATTGC'))
-
 module.exports = dnaComplement;
 
